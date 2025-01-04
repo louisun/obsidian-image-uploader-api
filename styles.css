@@ -1,0 +1,72 @@
+.blacklist-container {
+    border-top: 1px solid var(--background-modifier-border);
+    margin-top: 12px;
+    padding-top: 12px;
+}
+
+.blacklist-textarea-container {
+    margin-top: 12px;
+}
+
+.blacklist-textarea-container .setting-item {
+    border: none;
+    padding: 0;
+    display: block !important;
+}
+
+.blacklist-textarea-container .setting-item-info {
+    display: none;
+}
+
+.blacklist-textarea-container .setting-item-control {
+    display: block !important;
+    width: 100% !important;
+    padding: 0;
+}
+
+.blacklist-textarea-container textarea {
+    width: 100%;
+    height: 120px;
+    min-height: 120px;
+    resize: vertical;
+}
+
+.image-uploader-title {
+    margin-bottom: 24px;
+    font-size: 2em !important;
+}
+
+.headers-container {
+    border-top: 1px solid var(--background-modifier-border);
+    margin-top: 12px;
+    padding-top: 12px;
+}
+
+.headers-container .setting-item {
+    border: none;
+    padding: 0;
+    display: block !important;
+}
+
+.headers-container .setting-item-info {
+    display: none;
+}
+
+.headers-container .setting-item-control {
+    display: block !important;
+    width: 100% !important;
+    padding: 0;
+}
+
+.headers-container textarea {
+    width: 100%;
+    height: 80px;
+    min-height: 80px;
+    resize: vertical;
+}
+
+.width-settings-desc {
+    color: var(--text-muted);
+    font-size: 0.85em;
+    margin: 6px 0;
+} 

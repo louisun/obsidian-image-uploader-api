@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-image-uploader-api-dev",
+    "name": "Image Uploader API (Dev)",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically upload images to custom API (Development Version)",
+    "author": "louisun",
+    "isDesktopOnly": false,
+    "css": ["styles.css"]
+} 
